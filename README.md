@@ -1,1 +1,2 @@
-# Cyril-
+# Cyril-timetable
+# study planner
